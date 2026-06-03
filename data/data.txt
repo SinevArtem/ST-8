@@ -1,18 +1,18 @@
-Artist: The Beatles
-Title: Abbey Road
-Track 1: Come Together
-Track 2: Something
-Track 3: Maxwell's Silver Hammer
-Track 4: Oh! Darling
-Track 5: Octopus's Garden
-Track 6: I Want You (She's So Heavy)
-Track 7: Here Comes the Sun
-Track 8: Because
-Track 9: You Never Give Me Your Money
-Track 10: Sun King
-Track 11: Mean Mr. Mustard
-Track 12: Polythene Pam
-Track 13: She Came in Through the Bathroom Window
-Track 14: Golden Slumbers
-Track 15: Carry That Weight
-Track 16: The End
+Artist: The Velvet Tide
+Title: Echoes of the Ferris Wheel
+Track 1: Fading Polaroid
+Track 2: Neon Lullaby
+Track 3: Paper Crown
+Track 4: Rusty Weather Vane
+Track 5: Cigarette Rain
+Track 6: Your Ghost and My Compass
+Track 7: Glass Beach at Dawn
+Track 8: Static Kingdom
+Track 9: The Man Who Sold His Echo
+Track 10: Porcelain Moon
+Track 11: Velvet Fist
+Track 12: Subway Orchid
+Track 13: She Knocked Twice in the Dark
+Track 14: Tin Foil Serenade
+Track 15: Drag the Anchor Home
+Track 16: The Last Firework
